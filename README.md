@@ -1,2 +1,4 @@
 # python-study
-estudos em python
+Repositorio para estudos em python
+
+Inicio 04/07/2025
